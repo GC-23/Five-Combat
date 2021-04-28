@@ -84,7 +84,8 @@ nav#menu a:hover {
     height: 80%;
 }
 
-.img-wrapper2 {
+
+/*.img-wrapper2 {
     width: 50%;
     height: 50%;
 }
@@ -93,7 +94,7 @@ nav#menu a:hover {
     margin-left: 560px;
     width: 780px;
     height: 630px;
-}
+}*/
 
 .main {
     display: grid;
@@ -106,4 +107,21 @@ nav#menu a:hover {
     font-size: 20px;
     text-align: center;
     color: #c2a863;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.flex>div {
+    flex: 1 1 200px;
+    margin: 10px;
+}
+
+img {
+    width: 350px;
+    height: 300px;
 }
