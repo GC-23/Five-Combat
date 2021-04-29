@@ -9,4 +9,4 @@ Five Combat
 :package: nova funcionalidade
 :up: atualizaçao
 :zap: correçao de bug
-:checkred_flag:  release
+:checkered_flag:  release
