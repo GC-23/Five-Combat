@@ -135,8 +135,8 @@ header {
     text-shadow: .3rem .2rem 2px rgba(208, 201, 183, .3);
 }
 
-.banner p {
-    font-size: 1.5rem;
+.banner h2 {
+    font-size: 2rem;
     color: #c2a863;
     text-shadow: .3rem .3rem 2px rgba(208, 201, 183, .3);
     margin-left: 30px;
@@ -224,17 +224,6 @@ header {
     background-color: #d3cbb4;
 }
 
-.img-wrapper2 {
-    width: 50%;
-    height: 50%;
-}
-
-.img-wrapper2 img {
-    margin-left: 560px;
-    width: 780px;
-    height: 630px;
-}
-
 
 /* ESTILOS DA PAG FOTOS*/
 
@@ -243,14 +232,9 @@ header {
     width: 100%;
 }
 
-
-/*.container2 {
-    background-image: linear-gradient(to left, rgba(0, 0, 0, 0), rgb(32, 31, 31));
-}*/
-
 .main {
     position: absolute;
-    display: grid;
+    display: flex;
     grid-template-areas: header;
 }
 
@@ -263,10 +247,11 @@ header {
     color: #c2a863;
     top: 10rem;
     animation: movebanner 3s;
+    cursor: pointer;
 }
 
 body {
-    background-image: linear-gradient(to left, rgba(0, 0, 0, 0), rgb(32, 31, 31));
+    background-color: gray;
 }
 
 img {
@@ -291,4 +276,9 @@ img {
     margin: 10px;
     color: #c2a863;
     animation: movebanner 3s;
+}
+
+.equipe2 {
+    width: 50rem;
+    height: 43rem;
 }
