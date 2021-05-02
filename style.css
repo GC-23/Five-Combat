@@ -187,10 +187,10 @@ header {
 
 .menu-link {
     font-family: var(--font-action);
-    font-size: 2rem;
+    font-size: 1.6rem;
     color: #c2a863;
     transition: color 1s;
-    text-shadow: .1rem .2rem 1px rgba(208, 201, 183, .3);
+    text-shadow: .1rem .1rem 1px rgba(208, 201, 183, .3);
 }
 
 .menu-link:hover {
