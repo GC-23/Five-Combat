@@ -8,7 +8,7 @@ Five Combat
 
  ## ícones
 
-:package: nova funcionalidade <br>
-:up: atualizaçao <br>
-: :zap: correçao de bug <br>
-:checkered_flag:  release <br>
+:package: ==> nova funcionalidade <br>
+:up: ==> atualizaçao <br>
+: :zap: ==>correçao de bug <br>
+:checkered_flag: ==> release <br>
