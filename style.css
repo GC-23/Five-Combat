@@ -88,6 +88,9 @@
     --font-action: "Muli", serif;
 }
 
+
+/* CABEÇLHO E IMAGEM */
+
 header {
     position: relative;
     width: 100%;
@@ -281,4 +284,41 @@ img {
 .equipe2 {
     width: 50rem;
     height: 43rem;
+}
+
+
+/* conteiner 2 ==> five */
+
+.container2 {
+    display: block;
+    position: absolute;
+    width: 90rem;
+    height: 100rem;
+    padding: 0 auto;
+    top: 10rem;
+    font-size: 1.4rem;
+}
+
+p {
+    margin-bottom: 1rem;
+}
+
+.container2 #img-perfil {
+    position: relative;
+    display: flex;
+    width: 10rem;
+    height: 15rem;
+    left: 1rem;
+}
+
+.container2 img {
+    top: 5rem;
+    width: 12rem;
+    height: 18rem;
+}
+
+.texto {
+    display: flex;
+    margin-top: -15rem;
+    margin-left: 12.2rem;
 }
