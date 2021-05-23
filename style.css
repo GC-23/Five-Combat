@@ -301,6 +301,7 @@ img {
 
 p {
     margin-bottom: 1rem;
+    color: white;
 }
 
 .container2 #img-perfil {
@@ -314,11 +315,19 @@ p {
 .container2 img {
     top: 5rem;
     width: 12rem;
-    height: 18rem;
+    height: 15rem;
 }
 
 .texto {
     display: flex;
     margin-top: -15rem;
     margin-left: 12.2rem;
+}
+
+#v {
+    display: flex;
+    margin-top: -750px;
+    margin-left: 500px;
+    position: relative;
+    animation: movebanner 3s;
 }
