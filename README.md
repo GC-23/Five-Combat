@@ -7,8 +7,9 @@ Five Combat
  o controle das tarefas desse projeto será realizado no GitHub
 
  ## ícones
-
-:package:<span><span> ==> nova funcionalidade <br>
-:up:<span><span>==> atualizaçao <br>
-:zap:<span><span> ==>correçao de bug <br>
-:checkered_flag:<span><span> ==> release <br>
+<ul>
+<li>:package: ==> nova funcionalidade</li>
+<li>:up:==> atualizaçao</li>
+<li>:zap:==>correçao de bug</li>
+<li>:checkered_flag:==> release</li>
+</ul>
