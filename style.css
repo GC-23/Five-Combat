@@ -408,14 +408,12 @@ p {
 #img-perfil{
     display:flex;
     position: relative;
-    top: ;
-    
 }
 
 .texto1 {
     max-width: 1000px;
-    /*display: flex;*/
 }
+
 .texto {
     max-width: 1000px;
     display: flex;
@@ -423,7 +421,6 @@ p {
     color:red;
     font-size: 18px;
     left: 0.3%;
-    
 }
 #v{
     display: block;
