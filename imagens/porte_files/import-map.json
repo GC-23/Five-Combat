@@ -1,0 +1,27 @@
+{
+  "imports": {
+    "app-control-panel-blog": "/blog/2158/main.bundle.js",
+    "app-control-panel-blog-config": "/blog/2158/app-config.js?hash=1625174601940",
+    "app-bookings": "/bookings/2453/main.bundle.js",
+    "app-bookings-config": "/bookings/2453/app-config.js?hash=1625174601940",
+    "app-navigation": "/navigation/953/main.bundle.js",
+    "app-navigation-config": "/navigation/953/app-config.js?hash=1625174601940",
+    "app-logo": "/logo/4701/main.bundle.js",
+    "app-logo-config": "/logo/4701/app-config.js?hash=1625174601940",
+    "runtime": "/app-config.js?hash=1625174601940",
+    "app-kb": "/kb/329/main.bundle.js",
+    "app-kb-config": "/kb/329/app-config.js?hash=1625174601940",
+    "app-insights": "/insights/410/main.bundle.js",
+    "app-insights-config": "/insights/410/app-config.js?hash=1625174601940",
+    "branding/": "https://assets.mywebsitebuilder.com/r/branding/themes/65/",
+    "app-image-library": "/image-library/911/main.bundle.js",
+    "app-image-library-config": "/image-library/911/app-config.js?hash=1625174601940",
+    "app-designer": "/express-editor/20617/main.bundle.js",
+    "app-designer-config": "/express-editor/20617/app-config.js?hash=1625174601940",
+    "app-signalr": "/signalr/main.bundle.js?hash=60",
+    "app-signalr-config": "/signalr/app-config.js?hash=1625174601940",
+    "app-not-found": "/notfound/47/main.bundle.js",
+    "app-not-found-config": "/notfound/47/app-config.js?hash=1625174601940",
+    "data-wordnet": "https://assets.mywebsitebuilder.com/p/universal/wordnet-min.json"
+  }
+}
